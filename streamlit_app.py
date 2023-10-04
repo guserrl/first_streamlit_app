@@ -50,7 +50,7 @@ except URLError as e:
 # output as a table
 #streamlit.dataframe(fruityvice_normalized)
 
-streamlit.stop();
+#streamlit.stop();
 
 #import snowflake.connector
 streamlit.header("Fruit lload contains!")
